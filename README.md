@@ -1,0 +1,2 @@
+# Railway-Reservation-
+This project is based on the functionalities of railway department which has two main parts booking and cancellation of tickets. It has some fields like destination, count of members and distance of travel, also class like sleeper, A/C using which it calculates the amount of tickets. And also at cancellation time it asks for your reservation time and deduct some amount, if time passes.
